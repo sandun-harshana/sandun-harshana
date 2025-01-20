@@ -25,7 +25,29 @@
 </p>
 
 ---
-
+<table width="100%" border="0" cellspacing="0" cellpadding="20" frame="void" rules="none">
+    <tr>
+      <!-- Left column for interests -->
+      <td valign="top" width="50%" border="0" style="padding-right: 20px;">
+        <div>
+          <h2>My Interests</h2>
+          <ul style="list-style-type: none; padding: 0;">
+            <li style="margin-bottom: 10px;">🌐 <strong>Full Stack Web Development</strong>: Building dynamic and responsive web applications.</li>
+            <li style="margin-bottom: 10px;">🎮 <strong>Game Development</strong>: Creating immersive and engaging gaming experiences.</li>
+            <li style="margin-bottom: 10px;">📱 <strong>Android Development</strong>: Developing sleek and user-friendly mobile applications.</li>
+            <li style="margin-bottom: 10px;">🎨 <strong>Graphic Designing</strong>: Crafting visually appealing designs.</li>
+            <li style="margin-bottom: 10px;">🧩 <strong>Problem Solving</strong>: Tackling complex problems with efficient solutions.</li>
+          </ul>
+        </div>
+      </td>
+      <!-- Right column for the image -->
+      <td valign="top" width="50%" border="0">
+        <div align="center">
+          <img src="https://i.ibb.co/xzw4FsR/code-sleep.gif" alt="code-sleep" border="0" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); max-width: 100%; height: auto;">
+        </div>
+      </td>
+    </tr>
+  </table>
 ### 💻 Languages and Tools:
 
 #### Frontend Development
@@ -116,6 +138,12 @@
 </p>
 
 ---
+  <img src="https://i.ibb.co/v4rN84g/endless.gif" alt="endless" border="0" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); max-width: 100%; height: auto;">
+    </td>
+  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ceeejeey&theme=high-contrast&hide_border=true&area=true&point=FF0000&area_color=FF0000&line=FF0000" alt="Contribution Graph" />
+</div>
 
 ### 📊 GitHub Stats
 
