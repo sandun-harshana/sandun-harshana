@@ -156,3 +156,48 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandun-com-80&theme=dark" alt="sandun-com-80" />
 </p>
+
+#30NitesOfCode:
+  <a href="http://www.codedex.io/@sandun-harshana/30-nites-of-code">Check out my progress!</a>  
+  <img src="https://www.codedex.io/api/petStatus?user=sandun-harshana" />
+<!-- Contribution Graph Section -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandun-COM-80&theme=high-contrast&hide_border=true&area=true&point=FF0000&area_color=FF0000&line=FF0000" alt="Contribution Graph" />
+</div>
+
+<!-- Stats Section -->
+<table width="100%" cellspacing="20">
+  <tr>
+    <!-- Top Languages -->
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandun-COM-80&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+    </td>
+    <!-- General Stats -->
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Sandun-COM-80&show_icons=true&theme=dark&locale=en" alt="General Stats" />
+    </td>
+  </tr>
+</table>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandun-COM-80&theme=dark" alt="Sandun-COM-80" width="100%"/></p>
+
+  <h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://twitter.com/gihan_0205" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@harshsna20826" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/sandun-harshana-dissanayake" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandun-harshana" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/24110464" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24110464" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/gihanvimukthi19" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gihanvimukthi19" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/8hl3zkxrbw" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="8hl3zkxrbw" height="30" width="40" />
+  </a>
+</p>
+<div align="center">
+<img src="https://media.giphy.com/media/IeRdg7VETgTWg/giphy.gif" alt="hacker" border="0"  style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); max-width: 100%; height: auto;" /></a>
+</div>
