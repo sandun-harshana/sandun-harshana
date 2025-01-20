@@ -158,7 +158,7 @@
 </p>
 
 #30NitesOfCode:
-  <a href="http://www.codedex.io/@sandun-harshana/30-nites-of-code">Check out my progress!</a>  
+  <a href="http://www.codedex.io/@sandun-harshana-dissanayake/30-nites-of-code">Check out my progress!</a>  
   <img src="https://www.codedex.io/api/petStatus?user=sandun-harshana" />
 <!-- Contribution Graph Section -->
 <div align="center">
