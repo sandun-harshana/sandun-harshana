@@ -138,16 +138,7 @@
 </p>
 
 ---
-  </table>
-      </div>
-    </td>
-    <!-- Right column for GIF image -->
-    <td valign="top" align="center" width="50%">
-      <img src="https://i.ibb.co/v4rN84g/endless.gif" alt="endless" border="0" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); max-width: 100%; height: auto;">
-    </td>
-  </tr>
-</table>
-  
+<img src="https://i.ibb.co/v4rN84g/endless.gif" alt="endless" border="0" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); max-width: 100%; height: auto;">  
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandun-com-80&theme=high-contrast&hide_border=true&area=true&point=FF0000&area_color=FF0000&line=FF0000" alt="Contribution Graph" />
 </div>
