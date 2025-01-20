@@ -16,7 +16,7 @@
 - ⚡ Fun fact: <strong>Avid gamer who loves diving into different game worlds</strong><br>
 - 🤝 Feel free to contact me on LinkedIn: <strong><a href="https://www.linkedin.com/in/sandun-harshana-dissanayake/">Sandun Harshana</a></strong><br>
 - 🤝 Feel free to collaborate with me! I'm open to exploring joint projects, sharing knowledge, and brainstorming innovative solutions in web development, game development, and beyond. Let's connect and create something amazing together!
-  </p>
+
 ---
 
 ### Connect with me:
