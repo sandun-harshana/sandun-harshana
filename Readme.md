@@ -1,7 +1,7 @@
 <h1 align="center"># Hi 👋, I'm Sandun Harshana </h1>
 <div  align="center"><img  align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76117g48wgb1ifod5k6ms3owst6f8u3sczowldtnru4a&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200px" height="200px"> </div>
 
-<h3 align="center">### A passionate full-stack developer. </h3>
+<h3 align="center">###Computer Science Undergraduate | A passionate full-stack developer. </h3>
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=sandun-com-80&label=Profile%20views&color=0e75b6&style=flat" alt="sandun-com-80" /> </p>
 
