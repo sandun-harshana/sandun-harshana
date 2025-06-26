@@ -1,6 +1,8 @@
 <h1 align="center"># Hi 👋, I'm Sandun Harshana </h1>
 <div  align="center"><img  align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76117g48wgb1ifod5k6ms3owst6f8u3sczowldtnru4a&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200px" height="200px"> </div>
-
+<div align="center">
+ <img  src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="hacker" border="0"> 
+</div>
 <h3 align="center">MERN Stack Developer | AI/ML Enthusiast | UI/UX Designer | Mobile Developer | Photographer </h3>
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=sandun-harshana&label=Profile%20views&color=0e75b6&style=flat" alt="sandun-harshana" /> </p>
