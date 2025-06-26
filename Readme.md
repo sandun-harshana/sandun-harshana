@@ -3,11 +3,11 @@
 
 <h3 align="center">MERN Stack Developer | AI/ML Enthusiast | UI/UX Designer | Mobile Developer | Photographer </h3>
 
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=sandun-com-80&label=Profile%20views&color=0e75b6&style=flat" alt="sandun-com-80" /> </p>
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=sandun-harshana&label=Profile%20views&color=0e75b6&style=flat" alt="sandun-harshana" /> </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sandun-com-80&theme=darkhub" alt="sandun-com-80" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sandun-harshana&theme=darkhub" alt="sandun-harshana" />
   </a>
 </p>
 - 🌱 I’m currently learning **React, Node.js, MongoDB**<br>
@@ -148,15 +148,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandun-com-80&show_icons=true&locale=en&layout=compact&theme=dark" alt="sandun-com-80" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandun-harshana&show_icons=true&locale=en&layout=compact&theme=dark" alt="sandun-harshana" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandun-com-80&show_icons=true&locale=en&theme=dark" alt="sandun-com-80" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sandun-harshana&show_icons=true&locale=en&theme=dark" alt="sandun-harshana" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandun-com-80&theme=dark" alt="sandun-com-80" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandun-harshana&theme=dark" alt="sandun-harshana" />
 </p>
 
 #30NitesOfCode:
@@ -164,7 +164,7 @@
   <img src="https://www.codedex.io/api/petStatus?user=sandun-harshana" />
 <!-- Contribution Graph Section -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandun-COM-80&theme=high-contrast&hide_border=true&area=true&point=FF0000&area_color=FF0000&line=FF0000" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandun-harshana&theme=high-contrast&hide_border=true&area=true&point=FF0000&area_color=FF0000&line=FF0000" alt="Contribution Graph" />
 </div>
 
 <!-- Stats Section -->
@@ -172,15 +172,15 @@
   <tr>
     <!-- Top Languages -->
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandun-COM-80&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandun-harshana&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
     </td>
     <!-- General Stats -->
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Sandun-COM-80&show_icons=true&theme=dark&locale=en" alt="General Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sandun-harshana&show_icons=true&theme=dark&locale=en" alt="General Stats" />
     </td>
   </tr>
 </table>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandun-COM-80&theme=dark" alt="Sandun-COM-80" width="100%"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandun-harshana&theme=dark" alt="sandun-harshana" width="100%"/></p>
 
   <h3 align="center">Connect with me:</h3>
 <p align="center">
