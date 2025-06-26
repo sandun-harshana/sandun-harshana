@@ -35,7 +35,7 @@
           <h2>My Interests</h2>
           <ul style="list-style-type: none; padding: 0;">
             <li style="margin-bottom: 10px;">🌐 <strong>Full Stack Web Development</strong>: Building dynamic and responsive web applications.</li>
-            <li style="margin-bottom: 10px;">🎮 <strong>Game Development</strong>: Creating immersive and engaging gaming experiences.</li>
+            <li style=" margin-bottom: 10px;">🎮 <strong>Game Development</strong>: Creating immersive and engaging gaming experiences.</li>
             <li style="margin-bottom: 10px;">📱 <strong>Android Development</strong>: Developing sleek and user-friendly mobile applications.</li>
             <li style="margin-bottom: 10px;">🎨 <strong>Graphic Designing</strong>: Crafting visually appealing designs.</li>
             <li style="margin-bottom: 10px;">🧩 <strong>Problem Solving</strong>: Tackling complex problems with efficient solutions.</li>
@@ -142,7 +142,7 @@
 ---
 <img src="https://i.ibb.co/v4rN84g/endless.gif" alt="endless" border="0" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); max-width: 100%; height: auto;">  
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandun-com-80&theme=high-contrast&hide_border=true&area=true&point=FF0000&area_color=FF0000&line=FF0000" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandun-harshana&theme=high-contrast&hide_border=true&area=true&point=FF0000&area_color=FF0000&line=FF0000" alt="Contribution Graph" />
 </div>
 
 ### 📊 GitHub Stats
