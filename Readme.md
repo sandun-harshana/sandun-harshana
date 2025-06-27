@@ -1,5 +1,5 @@
 <h1 align="center"># Hi 👋, I'm Sandun Harshana </h1>
-<div  align="center"><img  align="center" src="https://iconscout.com/lottie-animation/software-engineer-working-on-computer-13636464_10993412"> </div>
+<div  align="center"><img  align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAhmadkazmi4343%2FAhmadkazmi4343&psig=AOvVaw0TKmdSUNb9ZtMjqZ6HS2Vj&ust=1751084431481000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCJoovgkI4DFQAAAAAdAAAAABAE"> </div>
 <div align="center">
  <img  src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="hacker" border="0"> 
 </div>
