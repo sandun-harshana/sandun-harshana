@@ -1,5 +1,5 @@
 <h1 align="center"># Hi 👋, I'm Sandun Harshana </h1>
-<div  align="center"><img  align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76117g48wgb1ifod5k6ms3owst6f8u3sczowldtnru4a&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200px" height="200px"> </div>
+<div  align="center"><img  align="center" src="https://app.lottiefiles.com/animation/16e722cc-83ac-4674-9be2-5e0a436563f2"> </div>
 <div align="center">
  <img  src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="hacker" border="0"> 
 </div>
