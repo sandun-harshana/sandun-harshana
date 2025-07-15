@@ -164,10 +164,6 @@
 #30NitesOfCode:
   <a href="http://www.codedex.io/@sandun-harshana-dissanayake/30-nites-of-code">Check out my progress!</a>  
   <img src="https://www.codedex.io/api/petStatus?user=sandun-harshana" />
-<!-- Contribution Graph Section -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandun-harshana&theme=high-contrast&hide_border=true&area=true&point=FF0000&area_color=FF0000&line=FF0000" alt="Contribution Graph" />
-</div>
 
 <!-- Stats Section -->
 <table width="100%" cellspacing="20">
