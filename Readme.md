@@ -180,7 +180,7 @@
 
 #30NitesOfCode:
   <a href="https://www.codedex.io/@sandun">Check out my progress!</a>  
-  <img src="https://www.codedex.io/api/petStatus?user=HARSHANA D.M.S" />
+  <img src="[https://www.codedex.io/api/petStatus?user=HARSHANA D.M.S]" />
 
 <!-- Stats Section -->
 <table width="100%" cellspacing="20">
