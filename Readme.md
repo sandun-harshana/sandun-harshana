@@ -1,5 +1,11 @@
 <h1 align="center"># Hi 👋, I'm Sandun Harshana </h1>
-<div  align="center"><img  align="center" src="https://www.google.com/imgres?q=software%20developer%20animated%20coding%20gif%20for%20github&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F5d93b905dceaa8cb3e5899538291eb7f0a7c81c2e726082a52cdb6f9a0d5384b%2F68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38352f30342f37372f38353034373766656430386266653938353938303832626364333039636537302e676966&imgrefurl=https%3A%2F%2Fgithub.com%2Fsalunkeakash&docid=ize5m5RDEQu25M&tbnid=k3Lc2a8hd8mWQM&vet=12ahUKEwiOpM7435COAxWB9bsIHcyBI8AQM3oECDoQAA..i&w=800&h=600&hcb=2&itg=1&ved=2ahUKEwiOpM7435COAxWB9bsIHcyBI8AQM3oECDoQAA"> </div>
+
+<div align="center"> 
+  <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="75">&nbsp; 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5005&pause=1000&color=33FFF5&center=true&random=false&width=540&lines=Hi+there!+I'm+Sandun;Nice+to+meet+you!;Fullstack+Developer" alt="Typing SVG"/> </a><img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="400">
+</div>
+
+
 <div align="center">
  <img  src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="hacker" border="0"> 
 </div>
