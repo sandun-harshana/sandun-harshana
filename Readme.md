@@ -5,10 +5,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5005&pause=1000&color=33FFF5&center=true&random=false&width=540&lines=Hi+there!+I'm+Sandun;Nice+to+meet+you!;Fullstack+Developer" alt="Typing SVG"/> </a><img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="400">
 </div>
 
-
 <div align="center">
  <img  src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="hacker" border="0"> 
 </div>
+
 <h3 align="center"> Software Engineer | Full Stack Developer | AI/ML Enthusiast | UI/UX Designer | Mobile Developer | Photographer </h3>
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=sandun-harshana&label=Profile%20views&color=0e75b6&style=flat" alt="sandun-harshana" /> </p>
