@@ -11,6 +11,8 @@
 
 <h3 align="center"> Software Engineer | Full Stack Developer | AI/ML Enthusiast | UI/UX Designer | Mobile Developer | Photographer </h3>
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" /><br><br>
+
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=sandun-harshana&label=Profile%20views&color=0e75b6&style=flat" alt="sandun-harshana" /> </p>
 
 <p align="center">
@@ -220,4 +222,3 @@
 <div align="center">
 <img src="https://media.giphy.com/media/IeRdg7VETgTWg/giphy.gif" alt="hacker" border="0"  style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); max-width: 100%; height: auto;" /></a>
 </div>
-
