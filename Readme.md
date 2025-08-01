@@ -34,6 +34,9 @@
   <a href="https://linkedin.com/in/sandun-harshana-dissanayake" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandun-harshana-dissanayake" height="30" width="40" />
   </a>
+ <a href="https://x.com/harshsna20826" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@harshsna20826" height="30" width="40" />
+  </a> 
   
 </p>
 
