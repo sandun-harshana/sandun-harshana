@@ -1,7 +1,6 @@
 ![image](https://user-images.githubusercontent.com/6633808/160689302-3fe5e5d4-ba24-4525-8ed1-a8351ccbc0ef.png)
 
 <h1 align="center"># Hi 👋, I'm Sandun Harshana </h1>
-
 <div align="center"> 
   <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="75">&nbsp; 
 
@@ -48,7 +47,6 @@
    <a href="https://www.hackerrank.com/profile/sandunharshana21" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gihanvimukthi19" height="30" width="40" />
   </a>
-  
   <a href="https://leetcode.com/u/sandun99" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="8hl3zkxrbw" height="30" width="40" />
   </a>
