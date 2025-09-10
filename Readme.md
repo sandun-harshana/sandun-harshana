@@ -32,7 +32,6 @@
 - 🤝 Feel free to collaborate with me! I'm open to exploring joint projects, sharing knowledge, and brainstorming innovative solutions in web development, game development, and beyond. Let's connect and create something amazing together!
 
 ---
-
 ### Connect with me:
 <p align="center">
   <a href="https://linkedin.com/in/sandun-harshana-dissanayake" target="blank">
