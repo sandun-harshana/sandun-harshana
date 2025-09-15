@@ -187,7 +187,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sandun-harshana&show_icons=true&locale=en&theme=dark" alt="sandun-harshana" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandun-harshana&theme=dark" alt="sandun-harshana" />
 </p>
