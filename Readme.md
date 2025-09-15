@@ -184,7 +184,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandun-harshana&show_icons=true&locale=en&layout=compact&theme=dark" alt="sandun-harshana" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sandun-harshana&show_icons=true&locale=en&theme=dark" alt="sandun-harshana" />
 </p>
