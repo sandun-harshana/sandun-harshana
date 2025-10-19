@@ -193,17 +193,6 @@
 </div>
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandun-harshana&show_icons=true&locale=en&layout=compact&theme=dark" alt="sandun-harshana" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandun-harshana&show_icons=true&locale=en&theme=dark" alt="sandun-harshana" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandun-harshana&theme=dark" alt="sandun-harshana" />
-</p>
-
 #30NitesOfCode:
   <a href="https://www.codedex.io/@sandun">Check out my progress!</a>  
   <img src="[[https://www.codedex.io/api/petStatus?user=HARSHANA D.M.S]](https://www.codedex.io/images/girl.gif)" />
